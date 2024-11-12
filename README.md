@@ -14,7 +14,11 @@ Run the script with either a username supplied to -u, or a game id/url supplied 
 ### example
 It is normally thought that bullet games are less susceptible to engine assistance because of the shorter time control. Here is an example of the script used in a bullet game:
 
-<video src="img/demo.mp4" width="320" height="240" controls></video>
+
+
+https://github.com/user-attachments/assets/1e4112da-79f6-4efa-8a06-16700aa862d4
+
+
 
 The automation allows the user to decide when to refer to the engine evaluation and how to use it with restraint, thus avoiding detection. The post-game analysis of the example is summarised like so:
 
